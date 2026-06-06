@@ -4,15 +4,6 @@ A desktop flight management application built with **Java Swing**, featuring rea
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots to the `/screenshots` folder and they will appear here._
-
-<!-- ![Main Dashboard](screenshots/dashboard.png) -->
-<!-- ![Map View](screenshots/map_view.png) -->
-
----
-
 ## 🚀 Features
 
 - ✈️ **Full Flight Management** — Add, update, delete, and search flights
