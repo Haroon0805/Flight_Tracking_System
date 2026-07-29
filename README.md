@@ -1,22 +1,22 @@
-# ✈️ Flight Tracking System
+#  Flight Tracking System
 
 A desktop flight management application built with **Java Swing**, featuring real-time route visualization on an interactive OpenStreetMap, full CRUD operations, and a modern dark/light theme toggle.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✈️ **Full Flight Management** — Add, update, delete, and search flights
-- 🗺️ **Live Map Visualization** — View flight routes on OpenStreetMap via JMapViewer
-- 🗄️ **SQLite Backend** — Persistent local database with pre-seeded airports
-- 🔍 **Dynamic Search & Filter** — Search flights by number, airline, origin, or destination
-- 🔄 **Status Management** — Track flight status: `Scheduled`, `In Air`, `Landed`, `Delayed`, `Cancelled`
-- ✅ **Input Validation** — Thorough validation on all user inputs
-- 🌙 **Dark / Light Theme** — Toggle between themes powered by FlatLaf
+-  **Full Flight Management** — Add, update, delete, and search flights
+-  **Live Map Visualization** — View flight routes on OpenStreetMap via JMapViewer
+-  **SQLite Backend** — Persistent local database with pre-seeded airports
+-  **Dynamic Search & Filter** — Search flights by number, airline, origin, or destination
+-  **Status Management** — Track flight status: `Scheduled`, `In Air`, `Landed`, `Delayed`, `Cancelled`
+-  **Input Validation** — Thorough validation on all user inputs
+-  **Dark / Light Theme** — Toggle between themes powered by FlatLaf
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 | Technology | Purpose |
 |---|---|
@@ -30,7 +30,7 @@ A desktop flight management application built with **Java Swing**, featuring rea
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Flight_Tracking_System/
@@ -64,7 +64,7 @@ Flight_Tracking_System/
 
 ---
 
-## ⚙️ Setup & Running
+##  Setup & Running
 
 ### Prerequisites
 - Java JDK 17 or higher
@@ -94,7 +94,7 @@ Flight_Tracking_System/
 
 ---
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ```sql
 -- Airports Table
@@ -125,7 +125,7 @@ CREATE TABLE Flights (
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Muhammad Haroon**
 - GitHub: [@Haroon0805](https://github.com/Haroon0805)
@@ -134,6 +134,6 @@ CREATE TABLE Flights (
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
